@@ -1,4 +1,4 @@
-# GdscWebFrontend 
+# Padel
 
 This is the repository for the frontend of the GDSC presentation website.
 
